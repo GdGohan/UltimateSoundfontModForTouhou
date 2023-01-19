@@ -1,1 +1,24 @@
 # UltimateSoundfontModForTouhou
+GdGohan(Mod)
+ZUN(TouhouProject)
+SomethingUnreal(Some Midis)
+MIDIClef(Android)
+Soundfonts:
+TurboGrafx-16 Soundfont
+https://musical-artifacts.com/artifacts/1312
+Touhou Soundfont
+https://musical-artifacts.com/artifacts/433
+Zunpet
+https://musical-artifacts.com/artifacts/2527
+Touhou Drum Kit Soundfont
+https://www.youtube.com/watch?v=efFakecHAOQ
+Android GM Soundfont(Android 4.0+ Version)
+https://drive.google.com/file/d/1eFbn-9aeaNFFs4emmWvBNQIBAFENu7F8/view
+Timbres Of Heaven GM GS XG SFX 3.4 Final by Don Allen
+https://archive.org/details/toh-gmgsxg
+Arachno SoundFont
+https://www.arachnosoft.com/main/download.php?id=soundfont-sf2
+SC-55
+https://musical-artifacts.com/artifacts/1228
+Roland SC-88
+https://musical-artifacts.com/artifacts/538
