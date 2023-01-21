@@ -1,7 +1,10 @@
 # UltimateSoundfontModForTouhou
 GdGohan(Mod)
 ZUN(TouhouProject)
-SomethingUnreal(Some Midis)
+SomethingUnreal
+https://m.youtube.com/@SomethingUnreal
+Touhou Midis
+https://gamebanana.com/projects/35179
 MIDIClef
 https://play.google.com/store/apps/details?id=it.giccisw.midi&hl=pt_BR&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dmidi+clef&pcampaignid=APPU_1_ILvKY6ujJJGy5OUPj7uquAQ
 Soundfonts:
