@@ -17,7 +17,7 @@ https://musical-artifacts.com/artifacts/2527
 Touhou Drum Kit Soundfont
 https://www.youtube.com/watch?v=efFakecHAOQ
 Android GM Soundfont(Android 4.0+ Version)
-https://drive.google.com/file/d/1eFbn-9aeaNFFs4emmWvBNQIBAFENu7F8/view
+https://musical-artifacts.com/artifacts/824
 Timbres Of Heaven GM GS XG SFX 3.4 Final by Don Allen
 https://archive.org/details/toh-gmgsxg
 Arachno SoundFont
