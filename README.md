@@ -26,3 +26,5 @@ SC-55
 https://musical-artifacts.com/artifacts/1228
 Roland SC-88
 https://musical-artifacts.com/artifacts/538
+PC-98
+https://m.youtube.com/watch?v=6H_TREuGqu4
